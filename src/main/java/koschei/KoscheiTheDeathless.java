@@ -7,6 +7,8 @@ import org.springframework.stereotype.Component;
 @Component
 public class KoscheiTheDeathless {
 
+    //тест
+
     private Ocean1 ocean;
 
     public String getRulesByDeth() {
